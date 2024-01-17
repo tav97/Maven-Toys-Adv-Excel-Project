@@ -9,12 +9,14 @@ Key features include:
 Regional Revenue Breakdown: Split monthly revenue by retail region to compare performance. Includes sparklines showing trends.
 
 ![image](https://github.com/tav97/Maven-Toys-Adv-Excel-Project/assets/151886105/acd0d98c-00c6-4209-8786-0754d28eb50f)
+
 Calculated Store performance for each region. 
 Used SUMIFS() & RANK.AVG() functions
 
 Year over Year & Month over Month: Track revenue changes compared to previous years and months to spot growth/declines. Uses % difference and variance highlighting.
 
 ![image](https://github.com/tav97/Maven-Toys-Adv-Excel-Project/assets/151886105/5a9718c6-2638-465d-ba15-57b822b86b8c)
+
 Used SUMIFS() function for the same
 
 Top/Bottom Sellers: Rank products by revenue with conditional formatting to quickly see highest and lowest performers.
